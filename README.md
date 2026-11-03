@@ -57,3 +57,18 @@ The threshold was selected using the validation set to maximize the F1-score.
 - False Negatives: 893
 
 Most false positives were TRANSFER transactions
+## Web Application
+
+The project includes a live Streamlit application.
+
+**Live Demo:** https://mobile-wallet-fraud-detection-dnvv4tz4ivaxanak6h9cls.streamlit.app/
+
+The application supports:
+- Single transaction prediction.
+- Batch prediction using CSV files.
+- Fraud probability display.
+- Downloading prediction results.
+
+## Project Screenshots
+
+Screenshots of the application interface and prediction results are available in the `screenshots` folder.
